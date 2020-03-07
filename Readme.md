@@ -78,9 +78,9 @@ ShieldedPicoPort (SPP) is licensed under a Creative Commons Attribution-NonComme
 - ***All bundled mods are distributed under their own licenses***<br>
 - ***All art assets (textures, models, animations) are distributed under their own licenses*** 
 
-<a href="https://github.com/zer0Kerbal/DockingPortDescriptions/releases/latest" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
-<a href="https://spacedock.info/mod/2246" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
-<a href="https://www.curseforge.com/kerbal/ksp-mods/dpd" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
+<a href="https://github.com/zer0Kerbal/ShieldedPicoPort/releases/latest" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
+<a href="https://spacedock.info/mod/2245" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
+<a href="https://www.curseforge.com/kerbal/ksp-mods/spp" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
