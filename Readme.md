@@ -12,7 +12,6 @@ updated: 2020 03 06 -->
 ![PicoPortShielded](https://img.shields.io/github/v/release/zer0Kerbal/ShieldedPicoPort?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)  
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
-## Shielded PicoPort (SPP)
 ### Adds four  (4) stock shielded docking ports to Kerbal Space Program
 
 ![PicoPortShielded](https://i.postimg.cc/25yWTZDG/Re-Stock-01-500x500.png)
