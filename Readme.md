@@ -84,8 +84,6 @@ ShieldedPicoPort (SPP) is licensed under a Creative Commons Attribution-NonComme
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
-
  ###### v1.0.1.0 original: 01 Oct 2019 zed'K | updated: 06 Mar 2020 zed'K
 <!--
 CC BY-NC-SA-4.0
