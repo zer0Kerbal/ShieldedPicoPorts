@@ -9,10 +9,9 @@ updated: 2020 03 06 -->
 # Shielded PicoPort (SPP)
 ## by zer0Kerbal
 
-![PicoPortShielded](https://img.shields.io/github/v/release/zer0Kerbal/ShieldedPicoPorts?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)  
-![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
+![PicoPortShielded](https://img.shields.io/github/v/release/zer0Kerbal/ShieldedPicoPort?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)  
+![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
-## PicoPortShielded (SPP)
 ### Adds four  (4) stock shielded docking ports to Kerbal Space Program
 
 ![PicoPortShielded](https://i.postimg.cc/25yWTZDG/Re-Stock-01-500x500.png)
@@ -81,8 +80,6 @@ ShieldedPicoPort (SPP) is licensed under a Creative Commons Attribution-NonComme
 <a href="https://github.com/zer0Kerbal/ShieldedPicoPort/releases/latest" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
 <a href="https://spacedock.info/mod/2245" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
 <a href="https://www.curseforge.com/kerbal/ksp-mods/spp" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
-
- *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
