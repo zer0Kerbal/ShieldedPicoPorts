@@ -82,6 +82,8 @@ ShieldedPicoPort (SPP) is licensed under a Creative Commons Attribution-NonComme
 <a href="https://spacedock.info/mod/2245" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
 <a href="https://www.curseforge.com/kerbal/ksp-mods/spp" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
 
+![Validate AVC .version files](https://github.com/zer0Kerbal/ShieldedPicoPort/workflows/Validate%20AVC%20.version%20files/badge.svg)
+
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
  ###### v1.0.1.0 original: 01 Oct 2019 zed'K | updated: 06 Mar 2020 zed'K
