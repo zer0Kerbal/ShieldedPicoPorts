@@ -1,9 +1,8 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": "1",
   "label": "Shielded PicoPort (SPP)",
   "labelColor": "darkgreen",
-  "message": "1.0.1.0",
-  "color": "orange",
+  "message": "1.1.0.0",
   "color": "orange",
   "style": "plastic"
 }
