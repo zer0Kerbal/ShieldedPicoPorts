@@ -9,7 +9,7 @@ updated: 2020 03 06 -->
 # Shielded PicoPort (SPP)
 ## by zer0Kerbal
 
-![Shielded PicoPort](https://img.shields.io/github/v/release/zer0Kerbal/ShieldedPicoPort?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License GPLv2](https://img.shields.io/badge/license-GPLv2-lightgrey?style=plastic)  
+![Shielded PicoPort](https://img.shields.io/github/v/release/zer0Kerbal/ShieldedPicoPort?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License GPLv2](https://img.shields.io/badge/License-GPLv2-darkred?labelColor=black&style=plastic)  
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)  
 ![Validate AVC .version files](https://github.com/zer0Kerbal/ShieldedPicoPort/workflows/Validate%20AVC%20.version%20files/badge.svg)
 
