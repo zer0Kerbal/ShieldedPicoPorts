@@ -90,8 +90,7 @@ parts, config
 
 ---
 
-<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</p>  
+<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center"><p><b>*red box below is a link to forum post on how to get support*</p>  
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
@@ -146,7 +145,7 @@ parts, config
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/ShieldedPicoPort "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Listed-white.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[GITHUB:url]: https://github.com/zer0Kerbal// "GitHub"
+[GITHUB:url]: https://github.com/zer0Kerbal/ShieldedPicoPort/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Listed-white.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 [SPCDCK:url]: http://spacedock.info/mod/2245 "SpaceDock"
