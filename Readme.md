@@ -2,14 +2,14 @@
 Shielded PicoPort (SPP)
 created: 01 Oct 19
 updated: 2020 03 06 -->
-<!-- # KerbGuise Experimental (KGEx)
-#### Brings you: -->
+# KerbGuise Experimental (KGEx)
+#### Brings you:
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
 # Shielded PicoPort (SPP)
 ## by zer0Kerbal
 
-![Shielded PicoPort](https://img.shields.io/github/v/release/zer0Kerbal/ShieldedPicoPort?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License GPLv2](https://img.shields.io/badge/license-GPLv2-lightgrey?style=plastic)  
+![Shielded PicoPort](https://img.shields.io/github/v/release/zer0Kerbal/ShieldedPicoPort?include_prereleases-red?style=plastic) ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License GPLv2](https://img.shields.io/badge/License-GPLv2-darkred?labelColor=black&style=plastic)  
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)  
 ![Validate AVC .version files](https://github.com/zer0Kerbal/ShieldedPicoPort/workflows/Validate%20AVC%20.version%20files/badge.svg)
 
@@ -18,10 +18,11 @@ updated: 2020 03 06 -->
 ![Shielded PicoPort](https://i.postimg.cc/25yWTZDG/Re-Stock-01-500x500.png)
 
 ### Parts:
-- 0.625m Shielded PicoPort Basic
-- 0.625m Shielded PicoPort Female
-- 0.625m Shielded PicoPort Male
-- 0.625m Shielded PicoPort Plus
+ - 0.625m Shielded PicoPort Basic  
+ - 0.625m Shielded PicoPort Female  
+ - 0.625m Shielded PicoPort Male  
+ - 0.625m Shielded PicoPort Plus  
+ - *** [NEW] 0.625 Inflatable PicoPort Basic***  
 
 #### Installation Directions:
 - Use CKAN
@@ -33,32 +34,32 @@ updated: 2020 03 06 -->
 - [Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.x, ***may*** work on earlier versions (YMMV)
 
 ### Depends:
-- [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
-- [PicoPort](https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*)
+ [x]  [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
+ [x]  [PicoPort](https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*)
 
 ### Suggests:
-- [Docking Port Descriptions](https://github.com/zer0Kerbal/KGEx/MM-Patches/DockingPortDescriptions)
-- [On Demand Fuel Cells (Refueled)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
-- [KGEx Mk2Y](https://forum.kerbalspaceprogram.com/index.php?/topic/192095-*)
-- [KGEx DuoPods](https://forum.kerbalspaceprogram.com/index.php?/topic/192094-*)
-- [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)
-- [MoarKerbals](https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*)
-- [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
-- [Not So SimpleConstruction (NSSC)](https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*)
-- [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
-- [Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
-- [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
-- [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
-- [DaMichel's AeroRadial](https://spacedock.info/mod/2338)
-- [DaMichel's CargoBays](https://spacedock.info/mod/2339)
-- [DaMichel's Fuselage](https://spacedock.info/mod/2340)
-- [DaMichel's SphericalTanks](https://spacedock.info/mod/2342)
+ [x]  [Docking Port Descriptions](https://github.com/zer0Kerbal/KGEx/MM-Patches/DockingPortDescriptions)
+ [x]  [On Demand Fuel Cells (Refueled)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
+ [x]  [KGEx Mk2Y](https://forum.kerbalspaceprogram.com/index.php?/topic/192095-*)
+ [x]  [KGEx DuoPods](https://forum.kerbalspaceprogram.com/index.php?/topic/192094-*)
+ [x]  [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)
+ [x]  [MoarKerbals](https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*)
+ [x]  [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
+ [x]  [Not So SimpleConstruction (NSSC)](https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*)
+ [x]  [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
+ [x]  [Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
+ [x]  [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
+ [x]  [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
+ [x]  [DaMichel's AeroRadial](https://spacedock.info/mod/2338)
+ [x]  [DaMichel's CargoBays](https://spacedock.info/mod/2339)
+ [x]  [DaMichel's Fuselage](https://spacedock.info/mod/2340)
+ [x]  [DaMichel's SphericalTanks](https://spacedock.info/mod/2342)
 
 ### Supports:
-- [ReStock](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*)
-- [Connected Living Space](http://forum.kerbalspaceprogram.com/index.php?/topic/109972-*)
-- [TweakScale](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*)
-- [Kerbal Changelog](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+ [x]  [ReStock](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*)
+ [x]  [Connected Living Space](http://forum.kerbalspaceprogram.com/index.php?/topic/109972-*)
+ [x]  [TweakScale](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*)
+ [x]  [Kerbal Changelog](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 
 
 <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*" target="_blank"><img src="https://i.imgur.com/YdYfStN.jpg"/></a>
@@ -66,7 +67,7 @@ updated: 2020 03 06 -->
 ### License
 #### aka Legal Mumbo Jumbo
 Source: [GitHub](https://github.com/zer0Kerbal/DockingPortDescriptions)
-License: [GPLv2](/) ![GPLv2](GPLv2.png "GPLv2")<br>
+License: [GPLv2](https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2") ![GPLv2]( https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2")<br>
 
 Shielded PicoPort (SPP) is under a GPLv2 unported license.  
 
@@ -81,7 +82,10 @@ Shielded PicoPort (SPP) is under a GPLv2 unported license.
 
  *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
- ###### v1.0.1.0 original: 01 Oct 2019 zed'K | updated: 06 Mar 2020 zed'K
+###### tags
+mod, ksp, kerbal-space-program, ckan, kerbal, kerbalspaceprogram, kerbal-space, ksp-mods, picoport, zer0Kerbal, parts
+
+ ###### v1.1.0.0 original: 01 Oct 2019 zed'K | updated: 17 Jun 2021 zed'K
 <!--
 GPLv2
 zer0Kerbal-->
