@@ -40,7 +40,9 @@ Adds shielded PicoPorts to Kerbal Space Program. Requires PicoPorts part mod.
 
 ### Localization - *work in progress*
 
->* [x] ![English][EN] English - in progress
+might not be able to be translated
+
+>* [ ] ![English][EN] English - in progress
 >* [ ] ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -139,7 +141,7 @@ parts, config
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN--white.svg?labelColor=E32811&style=plastic "CKAN"
+[CKAN:shd]: https://img.shields.io/badge/CKAN-ShieldedPicoPort-white.svg?labelColor=E32811&style=plastic "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/ShieldedPicoPort "Curseforge"
