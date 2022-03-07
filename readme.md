@@ -114,15 +114,15 @@ parts, config
 
 <!-- mod links -->
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-* " Forum Thread"
-[MOD:chlog]: https://github.com/zer0Kerbal//changelog.md "Changelog"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
-[MOD:discu]: https://github.com/zer0Kerbal//discussions "Discussions"
-[MOD:issue]: https://github.com/zer0Kerbal//wiki/Known-Issues "GitHub Issues"
-[MOD:known]: https://github.com/zer0Kerbal//wiki/Known-Issues "Known Issues"
-[MOD:licns]: https://github.com/zer0Kerbal//blob/master/LICENSE "Github License"
-[MOD:local]: https://github.com/zer0Kerbal//blob/master/GameData//Localization/readme.md "Localization"
-[MOD:pages]: https://zer0kerbal.github.io// "GitHub Pages"
-[MOD:wiki]: https://github.com/zer0Kerbal//wiki "Wiki"
+[MOD:discu]: https://github.com/zer0Kerbal/ShieldedPicoPort/discussions "Discussions"
+[MOD:issue]: https://github.com/zer0Kerbal/ShieldedPicoPort/wiki/Known-Issues "GitHub Issues"
+[MOD:known]: https://github.com/zer0Kerbal/ShieldedPicoPort/wiki/Known-Issues "Known Issues"
+[MOD:licns]: https://github.com/zer0Kerbal/ShieldedPicoPort/blob/master/LICENSE "Github License"
+[MOD:local]: https://github.com/zer0Kerbal/ShieldedPicoPort/blob/master/GameData//Localization/readme.md "Localization"
+[MOD:pages]: https://zer0kerbal.github.io/ShieldedPicoPort/ "GitHub Pages"
+[MOD:wiki]: https://github.com/zer0Kerbal/ShieldedPicoPort/wiki "Wiki"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/json/mod.json
