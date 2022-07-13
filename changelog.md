@@ -15,6 +15,30 @@
 * 13 Jul 2022
 * Released for KSP 1.12.3
 
+### docs/
+
+* Add
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+  * [404.md] v1.0.3.1
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [Part-Catelog.md] v1.1.4.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+
+### Localization
+
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* Updates # - Localization Master
+* Closes # - Localization - English (United States)] <en-us.cfg>
+
 * #3 - pull master changes - contributed by zer0Kerbal
 * #4 - add images :imp: - contributed by zer0Kerbal
 * #5 - [ImgBot] Optimize images - contributed by imgbot[bot]
