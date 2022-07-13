@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/2245)                                 |
 | ckan       | ShieldedPicoPort                                                  |
 
-## Version 1.1.0.0-release -  `<>>-- Final Countdown - for KSP 1.11.2 --<<
+## Version 1.0.2.0-release -  `<EDITION>` edition
 
 * for KSP 1.12.3
 * 06-Mar-2022
@@ -28,7 +28,7 @@
 
 ---
 
-## Version 1.0.1.1-release -  `<EDITION>` edition
+## Version 1.0.1.1-release -  `<>>-- Reminiaturized - for KSP 1.8.1 --<<` edition
 
 * 07 Mar 2020
 * Released for KSP 1.12.3
@@ -38,7 +38,7 @@
 
 ---
 
-## Version 1.0.1.0-release -  `<>>-- Reminiaturized - for KSP 1.8.1 --<<>` edition
+## Version 1.0.1.0-release -  `<>>-- Reminiaturized --<<>` edition
 
 * corrected changelog
 * added localization code
