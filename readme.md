@@ -13,7 +13,7 @@ updated: 02 Mar 2022 -->
 
 # Shielded PicoPort (SPP)
 
-Adds shielded PicoPorts to Kerbal Space Program. Requires PicoPorts part mod.
+Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part mod.
 
 ## An original parts addon [`zer0Kerbal`][LINK:zer0Kerbal]
 
