@@ -17,7 +17,7 @@ Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part m
 
 ## An original parts addon [`zer0Kerbal`][LINK:zer0Kerbal] and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/img/HeroLogo_1920x1920.png" alt="MOD-NAME Hero" width="72%" height="72%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/img/HeroLogo_1920x1920.png" alt="Shielded PicoPort Hero" width="72%" height="72%">
 
 ### Parts
 
