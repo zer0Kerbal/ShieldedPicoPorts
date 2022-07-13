@@ -1,13 +1,13 @@
-<!-- readme.md v1.6.5.8
+<!-- readme.md v1.6.9.2
 Shielded PicoPort (SPP)
 created: 01 Oct 19
-updated: 02 Mar 2022 -->
+updated: 05 Jul 2022 -->
 
-<!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
+<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+[![MOD-NAME][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
+[![Pages][MOD:pages:shd]][MOD:pages]
 
 
 
@@ -15,24 +15,21 @@ updated: 02 Mar 2022 -->
 
 Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part mod.
 
-## An original parts addon [`zer0Kerbal`][LINK:zer0Kerbal]
+## An original parts addon [`zer0Kerbal`][LINK:zer0Kerbal] and brought to you by *KerbSimpleCo*
 
-
-
-
-<img src="https://i.postimg.cc/25yWTZDG/Re-Stock-01-500x500.png" alt="Shielded PicoPort (SPP)" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/img/HeroLogo_1920x1920.png" alt="MOD-NAME Hero" width="72%" height="72%">
 
 ### Parts
 
-* ***[NEW] 0.625 (Size0) Inflatable PicoPort Basic***  
-* 0.625m (Size0) Shielded PicoPort Basic  
-* 0.625m (Size0) Shielded PicoPort Female  
-* 0.625m (Size0) Shielded PicoPort Male  
-* 0.625m (Size0) Shielded PicoPort Plus  
+* 0.625 (Size0) Inflatable PicoPort Basic
+* 0.625m (Size0) Shielded PicoPort Basic
+* 0.625m (Size0) Shielded PicoPort Female
+* 0.625m (Size0) Shielded PicoPort Male
+* 0.625m (Size0) Shielded PicoPort Plus
 
 ### Help Wanted
 
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
+> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel
 > * Variant Textures and code to make it work always welcome!
 > * Model updates to Unity 2019
 > * Parachute textures that work using  logos
@@ -49,7 +46,7 @@ might not be able to be translated
 
 ---
 
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
+### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
@@ -67,13 +64,13 @@ might not be able to be translated
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^3]
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Dependencies
 
@@ -92,7 +89,7 @@ parts, config
 
 ---
 
-<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center"><p><b>*red box below is a link to forum post on how to get support*</p>  
+<div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center"><p><b>*red box below is a link to forum post on how to get support*</p>
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
@@ -102,14 +99,14 @@ parts, config
 
 #### Original (0) - [`zer0Kerbal`][LINK:zer0Kerbal]
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
-> Shielded PicoPort (SPP) is under a GPLv2 unported license.  
+> Shielded PicoPort (SPP) is under a GPLv2 unported license.
 >
 > ##### Disclaimer(s)
 >
-> ***All bundled mods are distributed under their own licenses***  
+> ***All bundled mods are distributed under their own licenses***
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
 <!-- mod links -->
@@ -130,7 +127,7 @@ parts, config
 [CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/json/code.json
 
 <!--- GPLv2 -->
-[LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"  
+[LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"
 [LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
 [LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/license.json
 
@@ -157,8 +154,8 @@ parts, config
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
-<!-- links to add-ons/mods -->  
-[thread:pico]: https://forum.kerbalspaceprogram.com/index.php?/topic/190319-* "PicoPort"
+<!-- links to add-ons/mods -->
+[thread:pico]: https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*/ "PicoPort"
 [thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
 [thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
 [thread:tws]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
