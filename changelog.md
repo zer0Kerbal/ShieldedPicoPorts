@@ -12,8 +12,8 @@
 
 ## Version 1.0.2.0-release -  `<EDITION>` edition
 
-* for KSP 1.12.3
-* 06-Mar-2022
+* 13 Jul 2022
+* Released for KSP 1.12.3
 
 * #3 - pull master changes - contributed by zer0Kerbal
 * #4 - add images :imp: - contributed by zer0Kerbal
