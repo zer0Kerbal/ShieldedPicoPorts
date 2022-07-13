@@ -96,11 +96,11 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Supports
 
-* [TweakScale][twk]
-* [ReStock][restock]
-* [Connected Living Space][cls]
 * [Stock Inline Lighting (SIL)][SIL]
 * [Stock Inline Lighting Patches(SILP)][SILP]
+* [Connected Living Space][cls]
+* [ReStock][restock]
+* [TweakScale][twk]
 
 ### Tags
 
