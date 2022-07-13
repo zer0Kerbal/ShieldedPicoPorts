@@ -1,22 +1,22 @@
 ---
 permalink: /ManualInstallation.html
-title: ManualInstallation
+title: Manual Installation
+description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
+tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.0.0
-Notes (NOTE)
+<!-- ManualInstallation.md v1.1.7.0
+Shielded PicoPort (SPP)
 created: 01 Oct 2019
-updated: 02 Mar 2022 -->
+updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Notes (NOTE)
+# Shielded PicoPort (SPP)
 
- Simple plugin to take notes in game for Kerbal Space Program.
+[Home](./index.md)
 
-*formerly ksp_notes*
-
-Notes under zer0Kerbal's management!
+Module Manager patch adds docking port size/gender/shielded(if gendered - if shielded) to part descriptions in editor for all docking ports.
 
 ## Installation Instructions
 
@@ -26,81 +26,58 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `KGEx` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * )optional( back up `<KSP_ROOT>/GameData/Notes/NotePad` and elsewhere you have saved notes
-  * Delete `<KSP_ROOT>/GameData/Notes`
-* Extract the package's `Notes/` folder into your KSP's as follows:
-  * `<PACKAGE>/Notes` --> `<KSP_ROOT>/GameData/Notes`
-    * Overwrite any preexisting file.
-    * )optional( restore from backup to `<KSP_ROOT>/GameData/Notes/NotePad`
+  * Delete `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPort`
+* Extract the package's `KGEx/` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/KGEx` --> `<KSP_ROOT>/GameData`
+    * Overwrite any preexisting folder/file(s).
+  * you should end up with `<KSP_ROOT>/GameData/ShieldedPicoPort`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * )optional( back up `<KSP_ROOT>/GameData/Notes/NotePad` and elsewhere you have saved notes
-  * Delete `<KSP_ROOT>/GameData/Notes`
-* Extract the package's `GameData/` folder into your KSP's as follows:
-  * `<PACKAGE>/GameData/Notes` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPort`
+* Extract the package's `GameData` folder into your KSP's root folder as follows:
+  * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-    * )optional( restore from backup to `<KSP_ROOT>/GameData/Notes/NotePad`
+  * you should end up with `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPort`
 
 ## The following file layout must be present after installation
 
-```
+```markdown
 <KSP_ROOT>
-  [GameData]
-    [Notes]
-      [Compatibility]
-        ...
-      [Localization]
-        ...
-      [NotePad]
-        ...
-      [Plugins]
-        ...
-      [Textures]
-        ...
-      0.17.0.0.htm
-      changelog.md
-      GPLv3.txt
-      Notes.version
-      notesRPM.version
-      readme.htm
+  + [GameData]
+    + [KGEx]
+      + [ShieldedPicoPort]
+        + [Compatibility]
+          ...
+        + [Localization]
+          ...
+        + [Configs]
+          ...
+        * #.#.#.#.htm
+        * changelog.md
+        * CC-BY-NC-SA-4.0.txt
+        * readme.htm
+        * ShieldedPicoPort.version
+      ...
     ...
-  KSP.log
+    * [Module Manager][mm] or [Module Manager /L][mml]
+  * KSP.log
   ...
-```
-
-```mermaid
-  graph LR
-  %% file structure of Notes Mod
-    id[(Notes File Structure)];
-    style id1 fill:#f9f,stroke:#333,stroke-width:3px
-    style id2 fill:#ff0,stroke:#333,stroke-width:2px
-    style id3 fill:#bada55,stroke:#333,stroke-width:1px
-      subgraph id1[Kerbal Space Program Root]
-        KSP --folder--> gamedata
-        KSP -. file .-> log>KSP.log]
-      end
-      subgraph id2 [GameData Folder]
-        gamedata -- folder --> Notes
-        gamedata -. file .-> ModuleManager[/ModuleManager.dll\]
-      end
-      subgraph id3 [Notes Folder]
-        Notes -- folder --> Compatability & Localization & NotePad & Plugins & Textures & Files
-        Files .-> a>0.17.0.0.htm] & b>changelog.md] & c>Notes.version] & d>notesRPM.version] & e>readme.htm]
-      Compatability --> 1[...]
-      Localization --> 2[...]
-      NotePad --> 3[...]
-      Plugins .-> 40[/Notes.dll\] & 41[/notesRPM.dll\] & 42[...]
-      Textures .-> 5[...]
-      end
 ```
 
 ### Dependencies
 
-* none
+* [PicoPort][pp]
+* *either*
+  * [Module Manager][mm]
+  * [Module Manager /L][mml]
+
+[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[pp]: https://forum.kerbalspaceprogram.com/index.php?/topic/190319-*/ "PicoPort"
