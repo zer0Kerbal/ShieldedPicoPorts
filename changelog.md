@@ -36,8 +36,11 @@
     * <en-us.cfg>
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
-* Updates # - Localization Master
-* Closes # - Localization - English <en-us.cfg>
+* Updates #15 - Localization Master
+* Closes #16 - Localization - English <en-us.cfg>
+
+* [ShieldedPicoPort.version]
+  * remove [KSP_VERSION_MIN]
 
 * #3 - pull master changes - contributed by zer0Kerbal
 * #4 - add images :imp: - contributed by zer0Kerbal
