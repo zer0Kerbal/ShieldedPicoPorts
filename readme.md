@@ -27,22 +27,32 @@ Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part m
 * 0.625m (Size0) Shielded PicoPort Male
 * 0.625m (Size0) Shielded PicoPort Plus
 
+### See More
+
+* See our [Parts Catalog][MOD:parts] for part pictures
+* For more images, see our [Marketing Slicks][MOD:markt]
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
+* GitHub Pages : See [Pages][MOD:pages]
+
+---
+
 ### Help Wanted
 
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel
-> * Variant Textures and code to make it work always welcome!
+> * Compatibility patches
+> * Contracts for these glorious parts
+> * Variant Textures
 > * Model updates to Unity 2019
-> * Parachute textures that work using  logos
-> * Have a request? Glad to have them, kindly submit through GitHub.
+> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
-### Localization - *work in progress*
 
-might not be able to be translated
+### Localization
 
->* [ ] ![English][EN] English - in progress
->* [ ] ***your translation here***
+>* ![English][EN] English
+>* ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ---
 
