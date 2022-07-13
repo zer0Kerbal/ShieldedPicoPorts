@@ -37,7 +37,7 @@
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
 * Updates # - Localization Master
-* Closes # - Localization - English (United States)] <en-us.cfg>
+* Closes # - Localization - English <en-us.cfg>
 
 * #3 - pull master changes - contributed by zer0Kerbal
 * #4 - add images :imp: - contributed by zer0Kerbal
