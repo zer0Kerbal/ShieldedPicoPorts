@@ -91,12 +91,16 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Docking Port Descriptions (DPD)][DPD]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [On Demand Fuel Cells (ODFC)][ODFC]
+* [Stock Inline Lighting (SIL)][SIL]
+* [Stock Inline Lighting Patches(SILP)][SILP]
 
 ### Supports
 
 * [TweakScale][twk]
 * [ReStock][restock]
 * [Connected Living Space][cls]
+* [Stock Inline Lighting (SIL)][SIL]
+* [Stock Inline Lighting Patches(SILP)][SILP]
 
 ### Tags
 
@@ -191,6 +195,8 @@ parts, config
 [DPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/ "Docking Port Descriptions"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
+[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lighting (SIL)"
+[SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/ "Stock Inline Lighting Patches(SILP)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
