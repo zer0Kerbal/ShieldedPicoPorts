@@ -15,6 +15,8 @@
 * 13 Jul 2022
 * Released for KSP 1.12.3
 
+### Status
+
 ### docs/
 
 * Add
@@ -28,6 +30,7 @@
   * [Part-Catelog.md] v1.1.4.0
   * [Why.md] v1.1.0.0
   * [_config.yml]
+* closes #14 - docs/
 
 ### Localization
 
@@ -42,9 +45,9 @@
 * [ShieldedPicoPort.version]
   * remove [KSP_VERSION_MIN]
 
-* #3 - pull master changes - contributed by zer0Kerbal
-* #4 - add images :imp: - contributed by zer0Kerbal
-* #5 - [ImgBot] Optimize images - contributed by imgbot[bot]
+  * closes #33 - Part Localization
+  * closes #8 - [Bug 🐞]: Need Better titles/descriptions
+  * closes #9 - Update License
 
 * thorough linting of configs
 * minor corrections to readme and changelog
@@ -52,6 +55,18 @@
 * Added
   * Inflatable PicoPort Basic
   * all parts to ConnectedLivingSpaces and TweakScale patches
+
+### Status
+
+* Issues
+  * closes #10 - Shielded PicoPort 1.0.2.0-release `<En Garde!>`
+  * closes #11 - 1.0.2.0 Verify Legal Mumbo Jumbo
+  * closes #12 - 1.0.2.0 Update Documentation
+  * closes #13 - 1.0.2.0 Update Social Media
+* Pull Requests
+  * #3 - pull master changes - contributed by zer0Kerbal
+  * #4 - add images :imp: - contributed by zer0Kerbal
+  * #5 - [ImgBot] Optimize images - contributed by imgbot[bot]
 
 ---
 
