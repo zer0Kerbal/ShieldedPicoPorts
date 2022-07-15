@@ -5,7 +5,7 @@ title: License - GPLv2 (GPL-2.0)
 
 <!--
 GPLv2.md v1.0.0.0
-Shielded PicoPort (SPP)
+Shielded PicoPorts (SPP)
 created: 23 Mar 2022
 updated: 
 -->
