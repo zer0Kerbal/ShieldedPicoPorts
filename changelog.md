@@ -23,10 +23,21 @@ Squad/Parts/Utility/dockingPortShielded/model
 ### Compatibility
 
 * Update
-  * [StackInlineLights.cfg] v1.0.1.0
-    * :FOR[StackInlineLights] to :FOR[ShieldedPicoPort]
+  * [ConnectedLivingSpace.cfg] v1.2.0.0
+    * simplifyed @PART[ShieldedPicoPort?]
+    * added ConnectedLivingSpace to :NEEDS
+  * [ReStock.cfg] v1.1.1.0
+    * updated :NEEDS
+    * added :AFTER[ReStock]
+  * [ShieldedPicoPorts.restockwhitelist] v1.0.1.1
+    * renamed file
+  * [StackInlineLights.cfg] v1.1.0.
+    * simplifyed @PART[ShieldedPicoPort?]
+    * :FOR[StackInlineLights] to :FOR[ShieldedPicoPorts]
     * Rename
       * from [StackInlineLighting.cfg] to [StackInlineLights.cfg]
+    * needs to be localized after SIL/SILP is localized
+  * [TweakScale.cfg] v1.1.0.0
 
 ### Config
 
