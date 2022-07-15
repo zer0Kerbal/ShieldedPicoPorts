@@ -1,31 +1,30 @@
 <!-- readme.md v1.6.9.2
-Shielded PicoPort (SPP)
+Shielded PicoPorts (SPP)
 created: 01 Oct 19
 updated: 05 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Shielded PicoPort (SPP)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Shielded PicoPorts (SPP)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
 
-# Shielded PicoPort (SPP)
+# Shielded PicoPorts (SPP)
 
-Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part mod.
+Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part addon.
 
 ## An original parts addon [`zer0Kerbal`][zer0Kerbal] and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/img/HeroLogo_1920x1920.png" alt="Shielded PicoPort Hero" width="72%" height="72%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPorts/master/img/HeroLogo_1920x1920.png" alt="Shielded PicoPort Hero" width="72%" height="72%">
 
 ### Parts
 
-* 0.625 (Size0) Inflatable PicoPort Basic
-* 0.625m (Size0) Shielded PicoPort Basic
-* 0.625m (Size0) Shielded PicoPort Female
-* 0.625m (Size0) Shielded PicoPort Male
-* 0.625m (Size0) Shielded PicoPort Plus
+* Shielded PicoPort Basic
+* Shielded PicoPort Female
+* Shielded PicoPort Male
+* Shielded PicoPort Plus
 
 ### See More
 
@@ -82,25 +81,22 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 * [PicoPort][pp]
-* Either [^3]
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
 
 ### Suggests
 
+* Either [^3]
+  * [Module Manager][mm]
+  * [Module Manager /L][mml]
+* [Inflatable PicoPorts (IPP)][IPP]
 * [Docking Port Descriptions (DPD)][DPD]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [On Demand Fuel Cells (ODFC)][ODFC]
-* [Stock Inline Lighting (SIL)][SIL]
-* [Stock Inline Lighting Patches(SILP)][SILP]
 
 ### Supports
 
-* [Stock Inline Lighting (SIL)][SIL]
-* [Stock Inline Lighting Patches(SILP)][SILP]
-* [Connected Living Space][cls]
-* [ReStock][restock]
 * [TweakScale][twk]
+* [ReStock][restock]
+* [Connected Living Space][cls]
 
 ### Tags
 
@@ -143,26 +139,26 @@ parts, config
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 <!-- mod links -->
-[MOD:attr]: https://zer0kerbal.github.io/ShieldedPicoPort/Attributions "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/changelog.md  "Changelog"
+[MOD:attr]: https://zer0kerbal.github.io/ShieldedPicoPorts/Attributions "Attribution"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPorts/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
-[MOD:discu]: https://github.com/zer0Kerbal/ShieldedPicoPort/discussions "Discussions"
+[MOD:discu]: https://github.com/zer0Kerbal/ShieldedPicoPorts/discussions "Discussions"
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/ "Shielded PicoPort Forum Thread"
-[MOD:issue]: https://github.com/zer0Kerbal/ShieldedPicoPort/issues "Issues"
-[MOD:licns]: https://github.com/zer0Kerbal/ShieldedPicoPort/blob/master/LICENSE "Github License"
-[MOD:markt]: https://zer0kerbal.github.io/ShieldedPicoPort/Marketing "Marketing Slicks"
-[MOD:notic]: https://zer0kerbal.github.io/ShieldedPicoPort/Notices "Notices"
-[MOD:parts]: https://zer0kerbal.github.io/ShieldedPicoPort/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/ShieldedPicoPort "GitHub Pages"
+[MOD:issue]: https://github.com/zer0Kerbal/ShieldedPicoPorts/issues "Issues"
+[MOD:licns]: https://github.com/zer0Kerbal/ShieldedPicoPorts/blob/master/LICENSE "Github License"
+[MOD:markt]: https://zer0kerbal.github.io/ShieldedPicoPorts/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/ShieldedPicoPorts/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/ShieldedPicoPorts/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/ShieldedPicoPorts "GitHub Pages"
 
 <!--- mod -->
-[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/json/mod.json
+[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPorts/master/json/mod.json
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:source]: https://github.com/zer0Kerbal/ShieldedPicoPort/ "GitHub"
+[MOD:0:source]: https://github.com/zer0Kerbal/ShieldedPicoPorts/ "GitHub"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/ "KSP Forum"
-[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/ShieldedPicoPort "CurseForge"
+[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/ShieldedPicoPorts "CurseForge"
 
 <!--- license provenance -->
 [LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
@@ -171,17 +167,17 @@ parts, config
 
 [LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/json/license.json "CC BY-NC-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPorts/master/json/license.json "CC BY-NC-SA 4.0"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
-[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/json/ckan.json "CKAN"
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPorts/master/json/ckan.json "CKAN"
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/ShieldedPicoPort "Curseforge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/ShieldedPicoPorts "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[GITHUB:url]: https://github.com/zer0Kerbal/ShieldedPicoPort/ "GitHub"
+[GITHUB:url]: https://github.com/zer0Kerbal/ShieldedPicoPorts/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 [SPCDCK:url]: http://spacedock.info/mod/2245 "SpaceDock"
@@ -189,14 +185,13 @@ parts, config
 
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
-[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
+[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPorts/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
-[DPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/ "Docking Port Descriptions"
+[DPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/192184-*/ "Docking Port Descriptions (DPD)"
+[IPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/208975-*/ "Inflatable PicoPorts (IPP)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
-[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lighting (SIL)"
-[SILP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/ "Stock Inline Lighting Patches(SILP)"
+[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
@@ -248,7 +243,7 @@ parts, config
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/ShieldedPicoPort/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/ShieldedPicoPorts/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
 

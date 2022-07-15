@@ -1,6 +1,6 @@
 ﻿# Changelog  
   
-| modName    | Shielded PicoPort (SPP)                                           |
+| modName    | Shielded PicoPorts (SPP)                                           |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | zer0Kerbal                                                        |

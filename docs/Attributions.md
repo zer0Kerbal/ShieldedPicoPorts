@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.1
-Shielded PicoPort (SPP)
+Shielded PicoPorts (SPP)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +15,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Shielded PicoPort (SPP)
+# Shielded PicoPorts (SPP)
 
 [Home](./index.md)
 
@@ -24,7 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Shielded PicoPort (SPP)"> Shielded PicoPort (SPP)!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Shielded PicoPorts (SPP)"> Shielded PicoPorts (SPP)!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
@@ -56,7 +56,7 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[SPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/ "Shielded PicoPort (SPP)
+[SPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/ "Shielded PicoPorts (SPP)
 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
