@@ -10,15 +10,23 @@
 | spacedock  | (https://spacedock.info/mod/2245)                                 |
 | ckan       | ShieldedPicoPort                                                  |
 
-## Version 1.0.2.0-release -  `<EDITION>` edition
+## Version 1.0.2.0-release - `<En Garde!>` edition
 
 * 13 Jul 2022
 * Released for KSP 1.12.3
 
 ### Status
 
-Squad/Parts/Utility/dockingPortShielded/model
- Squad/Parts/Utility/dockingPortShielded/MODELdockingPortShielded
+* Converted MM add patches (+PART) to PART{}
+* Added
+  * thumbnails
+  * [DRAG_CUBES]
+* Localization added
+* Lots of little fixes and improvements
+* Linting
+* Code cleanup
+* Split out Inflatable PicoPorts into separate addon
+* Renamed addon to Shielded PicoPorts (SPP)
 
 ### Compatibility
 
@@ -47,16 +55,40 @@ Squad/Parts/Utility/dockingPortShielded/model
   * scraps/mines as much as possible from Squad's [dictionary.cfg]
 * Create a new file called [ghostparts.cfg] v1.3.0.0 in the [Config] folder.
   * will be going away in the future.
+* Added
+  * all parts to ConnectedLivingSpaces and TweakScale patches
 
 ### Parts
 
-* :FOR[ShieldedPicoPort] to :FOR[ShieldedPicoPort]
-
+* Convert
+  * from +PART (Module Manager Patch)
+  * to PART{} (part.cfg)
+  * closes #34 - Convert from mm patch to part.cfg
+* Update
+  * Model location
+    * from: Squad/Parts/Utility/dockingPortShielded/model
+    * to: Squad/Parts/Utility/dockingPortShielded/MODELdockingPortShielded
+* :FOR[ShieldedPicoPort] to :FOR[ShieldedPicoPorts]
 * Rename
   * from [ShieldedPicoPortBasic.cfg] to [ShieldedPicoPortB.cfg] v2.0.0.0
   * from [PicoPortShieldedF.cfg] to [ShieldedPicoPortF.cfg] v2.0.0.0
   * from [PicoPortShieldedM.cfg] to [ShieldedPicoPortM.cfg] v2.0.0.0
   * from [PicoPortShieldedP.cfg] to [ShieldedPicoPortP.cfg] v2.0.0.0
+* closes #8 - [Bug 🐞]: Need Better titles/descriptions
+
+### Updates
+
+* [ShieldedPicoPort.version]
+  * remove [KSP_VERSION_MIN]
+* thorough linting of configs
+* minor corrections to readme and changelog
+* backend automations
+
+### License
+
+* Update
+  * to CC-BY-NC-SA-4.0
+  * closes #9 - Update License
 
 ### docs/
 
@@ -80,27 +112,14 @@ Squad/Parts/Utility/dockingPortShielded/model
     * <en-us.cfg>
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
-* Updates #15 - Localization Master
-* Closes #16 - Localization - English <en-us.cfg>
+* updates #15 - Localization Master
+* closes #16 - Localization - English <en-us.cfg>
+* closes #33 - Part Localization
 
-* [ShieldedPicoPort.version]
-  * remove [KSP_VERSION_MIN]
-
-  * closes #33 - Part Localization
-  * closes #8 - [Bug 🐞]: Need Better titles/descriptions
-  * closes #9 - Update License
-
-* thorough linting of configs
-* minor corrections to readme and changelog
-* backend automations
-* Added
-  * Inflatable PicoPort Basic
-  * all parts to ConnectedLivingSpaces and TweakScale patches
-
-### Status
+### Status 1.0.2.0
 
 * Issues
-  * closes #10 - Shielded PicoPort 1.0.2.0-release `<En Garde!>`
+  * closes #10 - Shielded PicoPorts 1.0.2.0-release `<En Garde!>`
   * closes #11 - 1.0.2.0 Verify Legal Mumbo Jumbo
   * closes #12 - 1.0.2.0 Update Documentation
   * closes #13 - 1.0.2.0 Update Social Media
