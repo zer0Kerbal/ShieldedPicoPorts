@@ -28,6 +28,24 @@ Squad/Parts/Utility/dockingPortShielded/model
     * Rename
       * from [StackInlineLighting.cfg] to [StackInlineLights.cfg]
 
+### Config
+
+* [ShieldedPicoPorts.cfg] v1.0.0.0
+  * purpose is to simplify the translation process by limiting the number of strings to translate
+  * scraps/mines as much as possible from Squad's [dictionary.cfg]
+* Create a new file called [ghostparts.cfg] v1.3.0.0 in the [Config] folder.
+  * will be going away in the future.
+
+### Parts
+
+* :FOR[ShieldedPicoPort] to :FOR[ShieldedPicoPort]
+
+* Rename
+  * from [ShieldedPicoPortBasic.cfg] to [ShieldedPicoPortB.cfg] v2.0.0.0
+  * from [PicoPortShieldedF.cfg] to [ShieldedPicoPortF.cfg] v2.0.0.0
+  * from [PicoPortShieldedM.cfg] to [ShieldedPicoPortM.cfg] v2.0.0.0
+  * from [PicoPortShieldedP.cfg] to [ShieldedPicoPortP.cfg] v2.0.0.0
+
 ### docs/
 
 * Add
