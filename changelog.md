@@ -38,6 +38,7 @@ Squad/Parts/Utility/dockingPortShielded/model
       * from [StackInlineLighting.cfg] to [StackInlineLights.cfg]
     * needs to be localized after SIL/SILP is localized
   * [TweakScale.cfg] v1.1.0.0
+    * simplifyed @PART[ShieldedPicoPort?]
 
 ### Config
 
