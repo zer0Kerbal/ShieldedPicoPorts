@@ -19,6 +19,15 @@
 
 Squad/Parts/Utility/dockingPortShielded/model
  Squad/Parts/Utility/dockingPortShielded/MODELdockingPortShielded
+
+### Compatibility
+
+* Update
+  * [StackInlineLights.cfg] v1.0.1.0
+    * :FOR[StackInlineLights] to :FOR[ShieldedPicoPort]
+    * Rename
+      * from [StackInlineLighting.cfg] to [StackInlineLights.cfg]
+
 ### docs/
 
 * Add
