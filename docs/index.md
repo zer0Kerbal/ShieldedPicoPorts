@@ -12,4 +12,5 @@
 - [ManualInstallation](ManualInstallation.md)
 - [Marketing](Marketing.md)
 - [Notices](Notices.md)
+- [Parts-Catalog](Parts-Catalog.md)
 - [Why](Why.md)
