@@ -1,17 +1,17 @@
 <!-- readme.md v1.6.9.2
-Shielded PicoPort (SPP)
+Shielded PicoPorts (SPP)
 created: 01 Oct 19
 updated: 05 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Shielded PicoPort (SPP)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Shielded PicoPorts (SPP)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
 
-# Shielded PicoPort (SPP)
+# Shielded PicoPorts (SPP)
 
 Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part mod.
 
