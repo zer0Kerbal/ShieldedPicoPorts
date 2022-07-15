@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "Shielded PicoPort (SPP)",
+	"NAME"		     : "Shielded PicoPorts (SPP)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/ShieldedPicoPort.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ShieldedPicoPort/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPort/master/changelog.md",
