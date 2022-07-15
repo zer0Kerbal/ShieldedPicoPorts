@@ -16,7 +16,7 @@ updated: 18 Apr 2022 -->
 
 [Home](./index.md)
 
-Module Manager patch adds docking port size/gender/shielded(if gendered - if shielded) to part descriptions in editor for all docking ports.
+Adds shielded PicoPorts to Kerbal Space Program. Requires ***PicoPorts*** part addon.
 
 ## Installation Instructions
 
@@ -29,22 +29,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `KGEx` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPort`
+  * Delete `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPorts`
 * Extract the package's `KGEx/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/KGEx` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/ShieldedPicoPort`
+  * you should end up with `<KSP_ROOT>/GameData/ShieldedPicoPorts`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPort`
+  * Delete `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPorts`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPort`
+  * you should end up with `<KSP_ROOT>/GameData/KGEx/ShieldedPicoPorts`
 
 ## The following file layout must be present after installation
 
@@ -52,7 +52,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [KGEx]
-      + [ShieldedPicoPort]
+      + [ShieldedPicoPorts]
         + [Compatibility]
           ...
         + [Localization]
@@ -63,7 +63,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * changelog.md
         * CC-BY-NC-SA-4.0.txt
         * readme.htm
-        * ShieldedPicoPort.version
+        * ShieldedPicoPorts.version
       ...
     ...
     * [Module Manager][mm] or [Module Manager /L][mml]
